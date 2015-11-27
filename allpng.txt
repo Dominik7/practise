@@ -1,0 +1,12 @@
+.//img/1.png
+.//img/2.png
+.//img/3e.png
+.//img/3f.png
+.//img/4c.png
+.//img/4f.png
+.//img/4g.png
+.//img/5f.png
+.//img/5f2.png
+.//img/5g.png
+.//img/6b.png
+.//img/6d.png
